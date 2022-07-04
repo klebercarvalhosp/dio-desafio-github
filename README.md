@@ -19,7 +19,7 @@ nao esta no Git Propriamente .
 
 Faz com que você prepara esse arquivo para ser empurrado para GitHub 
 
--Git Push origin main 
+- Git Push origin main 
 
 nessa etapa suas alterações ja são atualizadas no GitHub 
 
